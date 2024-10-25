@@ -14,8 +14,8 @@ This is a Frontend Mentor QR code component project.
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/webdevsuman/QR-Code-Challenge](https://github.com/webdevsuman/QR-Code-Challenge)
+- Live Site URL: [https://webdevsuman.github.io/QR-Code-Challenge/](https://webdevsuman.github.io/QR-Code-Challenge/)
 
 ## My process
 
@@ -37,5 +37,5 @@ I definately want to continue developing my skills in making a responsive websit
 
 ## Author
 
-- Website - [Suman Das](https://www.your-site.com)
+- Website - [Suman Das](https://github.com/webdevsuman/)
 - Frontend Mentor - [@webdevsuman](https://www.frontendmentor.io/profile/webdevsuman)
